@@ -4,9 +4,12 @@ A mobile-first app for practicing Chinese character (hanzi) writing with real-ti
 
 ## Screenshots
 
-![Screenshot 1](screenshots/5875284948057967536.jpg)
-
-![Screenshot 2](screenshots/5875284948057967537.jpg)
+<table>
+<tr>
+<td><img src="screenshots/5875284948057967536.jpg" width="300"></td>
+<td><img src="screenshots/5875284948057967537.jpg" width="300"></td>
+</tr>
+</table>
 
  Features
 - **Interactive Drawing**: Stroke-by-stroke feedback using HanziWriter library.
