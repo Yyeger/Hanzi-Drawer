@@ -1,5 +1,5 @@
 # Hanzi-Drawer
- Hanzi Drawer 🖌️
+ Hanzi Drawer
 A mobile-first app for practicing Chinese character (hanzi) writing with real-time stroke feedback. Covers HSK 1-6 vocabulary (1200+ words). Draw on canvas, get instant corrections for order, direction, shape, and more. Track progress with stats and smart review.
 
 ## Screenshots
